@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiyoung-h)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiyoung-h&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jiyoung-h/Jiyoung-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
